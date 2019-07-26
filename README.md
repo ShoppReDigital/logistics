@@ -1,6 +1,8 @@
 # ShoppRe Logistics
 _Shipping API for Indians_
 
+[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/public)
+
 If you are facing any issues. [please create here](https://github.com/shoppre/logistics/issues)
 
 ## PRICING API
