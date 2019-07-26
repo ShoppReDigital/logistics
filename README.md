@@ -4,12 +4,6 @@ Shipping API for Indians
 If you are facing any issues. [please create here](https://github.com/shoppre/logistics/issues)
 
 
-# ShoppRe Logistics
-Shipping API for Indians
-
-If you are facing any issues. [please create here](https://github.com/shoppre/logistics/issues)
-
-
 ### Usage HTTP:
 
 URL: : `https://logistics.shoppre.com/api/pricing`
