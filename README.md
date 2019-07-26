@@ -3,6 +3,7 @@ _Shipping API for Indians_
 
 If you are facing any issues. [please create here](https://github.com/shoppre/logistics/issues)
 
+## PRICING API
 
 ### Usage HTTP:
 
