@@ -1,5 +1,5 @@
 # ShoppRe Logistics
-Shipping API for Indians
+_Shipping API for Indians_
 
 If you are facing any issues. [please create here](https://github.com/shoppre/logistics/issues)
 
@@ -61,12 +61,6 @@ function getPricing(){
     });     
  
  ```
- 
- # ShoppRe Logistics
-_Shipping API for Indians_
-
-_If you are facing any issues. [please create here](https://github.com/shoppre/logistics/issues)_
-
 
 **Method**: GET
 
